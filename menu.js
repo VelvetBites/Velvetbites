@@ -342,5 +342,12 @@ window.VELVET_BITES_MENU = [
     "price": 750,
     "pricePiece": null,
     "category": "Our signature"
+  },
+  {
+    "name": "Double Chocolate Brownie",
+    "priceHalf": 550,
+    "price": null,
+    "pricePiece": null,
+    "category": "Our signature"
   }
 ];
