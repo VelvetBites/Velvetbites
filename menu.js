@@ -9,8 +9,8 @@ window.VELVET_BITES_MENU = [
   },
   {
     "name": "Classic Vanilla Cake",
-    "priceHalf": 350,
-    "price": 600,
+    "priceHalf": 380,
+    "price": 700,
     "pricePiece": null,
     "category": "Cakes"
   },
@@ -31,7 +31,7 @@ window.VELVET_BITES_MENU = [
   {
     "name": "KitKat Chocolate Cake",
     "priceHalf": 700,
-    "price": 1400,
+    "price": 1350,
     "pricePiece": null,
     "category": "Cakes"
   },
@@ -44,29 +44,29 @@ window.VELVET_BITES_MENU = [
   },
   {
     "name": "Blackcurrant Cake",
-    "priceHalf": 380,
-    "price": 700,
+    "priceHalf": 425,
+    "price": 800,
     "pricePiece": null,
     "category": "Cakes"
   },
   {
     "name": "Strawberry Cake",
-    "priceHalf": 380,
-    "price": 700,
+    "priceHalf": 425,
+    "price": 800,
     "pricePiece": null,
     "category": "Cakes"
   },
   {
     "name": "Blueberry Cake",
-    "priceHalf": 380,
-    "price": 700,
+    "priceHalf": 480,
+    "price": 875,
     "pricePiece": null,
     "category": "Cakes"
   },
   {
     "name": "Pistachio Cake",
-    "priceHalf": 400,
-    "price": 800,
+    "priceHalf": 450,
+    "price": 850,
     "pricePiece": null,
     "category": "Cakes"
   },
@@ -86,7 +86,7 @@ window.VELVET_BITES_MENU = [
   },
   {
     "name": "White Truffle Cake",
-    "priceHalf": 550,
+    "priceHalf": 580,
     "price": 1100,
     "pricePiece": null,
     "category": "Cakes"
@@ -233,14 +233,14 @@ window.VELVET_BITES_MENU = [
   },
   {
     "name": "Tender Coconut Dream Cake",
-    "priceHalf": 600,
+    "priceHalf": 650,
     "price": null,
     "pricePiece": null,
     "category": "Dream Cakes"
   },
   {
     "name": "Classic Fudge Brownie",
-    "priceHalf": 450,
+    "priceHalf": 480,
     "price": null,
     "pricePiece": null,
     "category": "Brownies"
@@ -260,7 +260,7 @@ window.VELVET_BITES_MENU = [
     "category": "Brownies"
   },
   {
-    "name": "Nut Brownie",
+    "name": "Nut Brownie (Cashew & Almond)",
     "priceHalf": 600,
     "price": null,
     "pricePiece": null,
@@ -349,5 +349,33 @@ window.VELVET_BITES_MENU = [
     "price": null,
     "pricePiece": null,
     "category": "Our signature"
+  },
+  {
+    "name": "Death by Chocolate Cake",
+    "priceHalf": 750,
+    "price": 1450,
+    "pricePiece": null,
+    "category": "Cakes"
+  },
+  {
+    "name": "Milk Butterscotch Cake",
+    "priceHalf": 700,
+    "price": 1350,
+    "pricePiece": null,
+    "category": "Cakes"
+  },
+  {
+    "name": "Nut Brownie (Pistachio)",
+    "priceHalf": 650,
+    "price": null,
+    "pricePiece": null,
+    "category": "Brownies"
+  },
+  {
+    "name": "Double Chocolate Brownie",
+    "priceHalf": 550,
+    "price": null,
+    "pricePiece": null,
+    "category": "Brownies"
   }
 ];
