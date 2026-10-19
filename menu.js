@@ -377,5 +377,19 @@ window.VELVET_BITES_MENU = [
     "price": null,
     "pricePiece": null,
     "category": "Brownies"
+  },
+  {
+    "name": "Vanilla Cake Pops",
+    "priceHalf": null,
+    "price": null,
+    "pricePiece": 20,
+    "category": "Cake Pops"
+  },
+  {
+    "name": "Chocolate Cake Pops",
+    "priceHalf": null,
+    "price": null,
+    "pricePiece": 25,
+    "category": "Cake Pops"
   }
 ];
