@@ -246,13 +246,6 @@ window.VELVET_BITES_MENU = [
     "category": "Brownies"
   },
   {
-    "name": "Chocolate Brownie",
-    "priceHalf": 500,
-    "price": null,
-    "pricePiece": null,
-    "category": "Brownies"
-  },
-  {
     "name": "Triple Chocolate Brownie",
     "priceHalf": 650,
     "price": null,
