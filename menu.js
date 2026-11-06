@@ -100,8 +100,8 @@ window.VELVET_BITES_MENU = [
   },
   {
     "name": "Chocolate Truffle Overload",
-    "priceHalf": 650,
-    "price": 1200,
+    "priceHalf": 600,
+    "price": 1100,
     "pricePiece": null,
     "category": "Cakes"
   },
